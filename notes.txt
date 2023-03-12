@@ -1,0 +1,28 @@
+1991
+
+last 7 years
+
+Variables:- Storing in the computer memory
+a variable is just a name which gives some meaningful name to area of memory
+
+Python Data Types:- 
+String 
+Numeric 
+Itretor
+Files
+Class
+
+Numeric Data Types
+1. int
+2. float
+3. Complex 2i+j 
+4. long
+
+1111111111111111111111111111111111111111133333333333333333333333333333333333333333333333
+
+
+
+PEMDAS Parentheses, Exponent, 
+BEDMAS Bracket, Exponent
+BODMAS
+BIDMAS Brackets, Index
